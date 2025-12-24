@@ -1,0 +1,10 @@
+id,name,age,email,salary,department,phone,status
+1,John Doe,30,john.doe@example.com,$50,000,Engineering,555-1234,Active
+2,Jane Smith,,jane.smith@example.com,60000,Marketing,,Active
+3,Bob Johnson,35,,70000,Sales,555-9012,
+4,John Doe,30,john.doe@example.com,$50,000,Engineering,555-1234,Active
+5,Alice Williams,28,alice.williams@example.com,,Engineering,555-3456,Active
+6,Charlie Brown,32,charlie.brown@example.com,$65,000,,555-7890,Inactive
+7,,40,test@example.com,55000,HR,555-2345,Active
+8,Jane Smith,,jane.smith@example.com,60000,Marketing,,Active
+

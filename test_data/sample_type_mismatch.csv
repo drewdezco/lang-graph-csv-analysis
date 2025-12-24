@@ -1,0 +1,8 @@
+id,name,age,email,salary,phone_number
+1,John Doe,30,john.doe@example.com,$50,000,555-1234
+2,Jane Smith,25,jane.smith@example.com,60000,555-5678
+3,Bob Johnson,35,bob.johnson@example.com,"$70,000",555-9012
+4,Alice Williams,28,alice.williams@example.com,55000,555-3456
+5,Charlie Brown,32,charlie.brown@example.com,$65,000,555-7890
+6,David Lee,45,david.lee@example.com,80000,555-2345
+

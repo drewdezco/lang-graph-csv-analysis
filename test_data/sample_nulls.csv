@@ -1,0 +1,9 @@
+id,name,age,email,salary,department
+1,John Doe,30,john.doe@example.com,50000,Engineering
+2,Jane Smith,,jane.smith@example.com,60000,Marketing
+3,Bob Johnson,35,,70000,Sales
+4,Alice Williams,28,alice.williams@example.com,,Engineering
+5,Charlie Brown,32,charlie.brown@example.com,65000,
+6,,40,test@example.com,55000,HR
+7,David Lee,45,david.lee@example.com,80000,
+
